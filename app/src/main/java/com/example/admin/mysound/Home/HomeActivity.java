@@ -1,7 +1,9 @@
-package com.example.admin.mysound;
+package com.example.admin.mysound.Home;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.admin.mysound.R;
 
 public class HomeActivity extends AppCompatActivity {
 
